@@ -20,7 +20,7 @@ on:
         required: true
         default: "libDrive/web"
       web-branch:
-        description: "The branch of the web repositry to clone"
+        description: "The branch of the t web repositry to clone"
         required: true
         default: "main"
 
